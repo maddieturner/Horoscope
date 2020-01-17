@@ -1,0 +1,28 @@
+/* style all elements in the <body> */
+body {
+    background-image: url("images/background.gif");
+    font-family: 'sans-serif';
+    vertical-align: top;
+    text-align: center;
+    text-weight: super bold;
+    font-size:40px;
+}
+h1 {
+    font-family: 'sans-serif';
+    font-size: 50px;
+    color: black;
+    text-align: center;
+    text-weight: bold;
+}
+#month {
+    display: block;
+    margin-left: auto;
+    margin-right:auto;
+    text-align: center;
+    height: 30px;
+    font-family: 'sans-serif';
+    font-size: 15px;
+    color: black;
+    text-weight: bold;
+}
+
